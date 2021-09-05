@@ -2,7 +2,7 @@
   "name": "js",
   "version": "0.0.0",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watchAll --verbose"
   },
   "private": true,
   "dependencies": {
